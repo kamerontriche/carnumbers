@@ -1,0 +1,16 @@
+#textbox{
+width: 160px;  
+height:200px;    
+font-size: 95px;
+font-weight: bold;   
+border-width: 5px 5px;
+margin-bottom: 15px;
+margin-left: 5px;
+}           
+                           
+#reset{
+width: 100px;
+height:55px;    
+font-size: 30px;
+font-weight: bold;
+;}
